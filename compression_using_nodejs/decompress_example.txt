@@ -1,0 +1,4 @@
+Using Gzip Compression
+Add compression middleware in the index.js file of your NodeJS application. This will enable GZIP which makes your HTTP responses smaller.
+Step 1: Create an empty NodeJS application with the following command:
+Step 2: Install the compression and ExpressJS module using the following command:
